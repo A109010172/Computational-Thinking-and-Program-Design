@@ -348,7 +348,7 @@
         "total=(can//12)*200+(can%12)*20\n",
         "print(\"需花費\",total)"
       ],
-      "execution_count": 1,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -587,7 +587,7 @@
         " print(movie_time_min)\n",
         " print(stars_1)"
       ],
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
